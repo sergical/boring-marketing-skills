@@ -95,6 +95,8 @@ Every skill can keep a separate folder per client. Tell `/start-here` "new clien
 | `social-content` | Writes posts from your own best posts, not generic hooks |
 | `long-form-article` | Plans and drafts a long guide with real numbers and named sources |
 | `content-atomizer` | Turns one piece into posts for every platform |
+| `sergical-social-content` | Fork of social-content tuned to @sergical's own X data (drafts only) |
+| `sergical-content-atomizer` | Fork of content-atomizer for @sergical's X, YouTube and LinkedIn (drafts only) |
 
 ## Found in the work
 

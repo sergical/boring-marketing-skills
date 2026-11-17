@@ -22,7 +22,7 @@ class Smoke(unittest.TestCase):
     def test_skills_match_readme_catalog(self):
         on_disk = {p.parent.name for p in (ROOT / "skills").glob("*/SKILL.md")}
         catalog = readme_catalog()
-        self.assertEqual(len(catalog), 32)
+        self.assertEqual(len(catalog), 34)
         self.assertEqual(sorted(catalog - on_disk), [], "in the README but not on disk")
         self.assertEqual(sorted(on_disk - catalog), [], "on disk but not in the README")
 

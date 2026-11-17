@@ -49,6 +49,8 @@ REQUESTS = {
     "social-content": ["write me a LinkedIn post"],
     "long-form-article": ["write a long article, a playbook with real numbers"],
     "content-atomizer": ["repurpose this blog post into social posts"],
+    "sergical-social-content": ["write a tweet for serg about this"],
+    "sergical-content-atomizer": ["atomize serg build into posts"],
 }
 
 
