@@ -33,6 +33,7 @@ Grouped by stage, in the order a customer meets a business.
 |---|---|
 | `start-here` | Reads the business (yours or a client's), writes the brand files, and routes you to the next skill |
 | `brand-voice` | Pulls the voice from the site and reviews so every page and post sounds like the business |
+| `sergical-personal-voice` | Fork of brand-voice for one writer: builds his voice profile from dated quotes and diffs it against his own voice guide |
 | `positioning-angles` | Finds the angle and the offer that make them the obvious call |
 | `audience-research` | Reads reviews, forums and competitors for the words customers actually use |
 | `competitive-intel` | Sizes up the rivals that show up first, including what their customers complain about |

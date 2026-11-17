@@ -17,6 +17,7 @@ import route  # noqa: E402
 REQUESTS = {
     "start-here": ["where do I start with marketing", "set up my business"],
     "brand-voice": ["this sounds generic, make it sound like me"],
+    "sergical-personal-voice": ["re-run the personal voice extraction on serg's posts"],
     "positioning-angles": ["how should I position my product, what's the hook"],
     "audience-research": ["who is my audience and what do customers say"],
     "competitive-intel": ["who am I up against and what are competitors charging"],
